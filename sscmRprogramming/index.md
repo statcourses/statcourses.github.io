@@ -9,7 +9,7 @@ This is a one day intensive course on R programming techniques. The course is st
 
 ## Prerequisite
 <p align="justify">
-<strong>This course is an integrated part of the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course</strong>. Both courses together, "Introduction to R" and this course, form a series titled '<em>Mastering Data Analysis & Visualisation Using R</em>'. <u>It is assumed that all participants have the knowledge covered by the former course</u>.
+<strong>This course is a follow-on from the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course</strong>. Both courses together, "Introduction to R" and this course, form a series titled '<em>Mastering Data Analysis & Visualisation Using R</em>'. <u>It is assumed that all participants have the knowledge covered by the former course</u>.
 </p>
 
 ## Course outline
