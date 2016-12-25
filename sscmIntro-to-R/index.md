@@ -6,7 +6,7 @@ title: Introduction to R
 
 This is a one day intensive course on basics and fundamental concepts of R. The course is structured as a cobmination of lecture sessions and computer practicals.
 
-    No prior programming skills are required
+    NO PRIOR PROGRAMMING KNOWLEDGE IS ASSUMED
     
 This course might be benfecial for a wide range of participants e.g., statisticians, biologists, clinicians and postgraduate students.
 
