@@ -26,11 +26,12 @@ This course might be benfecial for a wide range of participants e.g., statistici
 The R package associated with this course is located in the
 [drat repository](https://github.com/statcourses/drat). Installing the package can be simply done by running the following code lines into your R session. 
 
-```javascript
+~~~
 install.packages("drat")
 drat::addRepo("statcourses")
 install.packages("sscmRintro", type="source")
-```
+~~~
+
 The package can then be loaded via
 
     library("sscmRintro")
