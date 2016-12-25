@@ -4,7 +4,7 @@ title: Introduction to R
 ---
 # Introduction to R
 
-This is a one day intensive course on basics and fundamental concepts of R. The course is structured as a cobmination of lecture sessions and computer practicals.
+This is a one day intensive course on basics and fundamental concepts of R. The course is structured as a set of lecture sessions and computer practicals.
 
     NO PRIOR PROGRAMMING KNOWLEDGE IS ASSUMED
     
