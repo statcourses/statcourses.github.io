@@ -14,8 +14,8 @@ If you are interested in finding out dates of forthcoming courses, discussing ar
 
 This archive currently contains material for:
 
- * [Mastering data analysis using R](SSCMintroduction)
- * [Advanced visulaisation using R](SSCMggplot2)
- * [Clustering and classification with applications](SSCMbigData)
+ * [Introduction to R](sscmIntro-to-R)
+ * [Programming using R](sscmRggplot2)
+ * [Clustering and classification with applications in R](sscmBigData)
 
 All the packages are located in the [drat repository](https://github.com/statcourses/drat).
