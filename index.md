@@ -1,14 +1,12 @@
 ---
 layout: default
-title: R courses
+title: Statistical Courses
 ---
 
 # Overview
-
-This github repository contains the course material for a number of
-[R courses](http://www.ncl.ac.uk/maths/rcourse/). Each course we run has a
-separate, associate R package that contains the practical sheets with
-solutions.
+<p align="justify">
+This webpage contains description and materials for a number of **statistical courses**. Each course is associated with an R package tailored &mdash; for teaching purposes &mdash; to combine together the practical sheets with solutions, course notes and training data sets.
+</p>
 
 To book a course, please see the
 [R course](http://www.ncl.ac.uk/maths/rcourse/") website.
