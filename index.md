@@ -5,7 +5,7 @@ title: Statistical Courses
 
 # Overview
 <p align="justify">
-This webpage contains description and materials for a number of <strong>statistical courses</strong>. Each course is associated with an R package tailored &mdash; for teaching purposes &mdash; to combine together the practical sheets with solutions, course notes and training data sets.
+This webpage contains description and materials for a number of <strong>statistical courses</strong>. Each course is associated with an <strong><em>R package</em></strong> tailored &mdash; for teaching purposes &mdash; for combining together the practical sheets with solutions, course notes and training data sets.
 </p>
 
 To book a course, please see the
