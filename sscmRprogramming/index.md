@@ -4,14 +4,13 @@ title: Programming using R
 ---
 # Programming using R
 <p align="justify">
-This is a one day intensive course on R programming techniques. The course is structured as a set of lecture sessions and computer practicals. It mainly covers the basic programming tools in R, such as functions and control structures, i.e. conditional expressions and loops.
-<br>
-This course might be benfecial for a wide range of participants e.g., statisticians, biologists, clinicians and postgraduate students.
+This is a one day intensive course on R programming techniques. The course is structured as a set of lecture sessions and computer practicals. It mainly covers the basic programming tools in R, such as functions and control structures, i.e. conditional expressions and loops. This course might be benfecial for a wide range of participants e.g., statisticians, biologists, clinicians and postgraduate students.
 </p>
 
 ## Prerequisite
-
-THIS COURSE IS AN INTEGRATED PART FOR THE [INTRODUCTION TO R]({{ site.baseurl}}/sscmIntro-to-R) COURSE. IT IS ASSUMED THAT ALL PARTIIPANTS HAVE THE KNOWLEDGE COVERED BY THAT COURSE.
+<p align="justify">
+<strong>This course is an integrated part of the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course</strong>. Both courses together, "Introduction to R" and this course, form a comprehensive series which I titled as '<em>Mastering Data Analysis & Visualisation Using R</em>'. <u>It is assumed that all participants have the knowledge covered by the former course</u>.
+</p>
 
 ## Course outline
 
