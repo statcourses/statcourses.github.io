@@ -3,12 +3,15 @@ layout: default
 title: Programming using R
 ---
 # Programming using R
+<p align="justify">
 This is a one day intensive course on R programming techniques. The course is structured as a set of lecture sessions and computer practicals. It mainly covers the basic programming tools in R, such as functions and control structures, i.e. conditional expressions and loops.
-
+<br>
 This course might be benfecial for a wide range of participants e.g., statisticians, biologists, clinicians and postgraduate students.
+</p>
 
 ## Prerequisite
-THIS COURSE IS AN INTEGRATED PART FOR THE [INTRODUCTION TO R](sscmIntro-to-R) COURSE. IT IS ASSUMED THAT ALL PARTIIPANTS HAVE THE KNOWLEDGE COVERED BY THAT COURSE.
+
+THIS COURSE IS AN INTEGRATED PART FOR THE [INTRODUCTION TO R]({{ site.baseurl}}/sscmIntro-to-R) COURSE. IT IS ASSUMED THAT ALL PARTIIPANTS HAVE THE KNOWLEDGE COVERED BY THAT COURSE.
 
 ## Course outline
 
@@ -19,11 +22,11 @@ THIS COURSE IS AN INTEGRATED PART FOR THE [INTRODUCTION TO R](sscmIntro-to-R) CO
  * "apply" family: using "apply", "lapply", "tapply", "mapply" and "sapply" in R.
 
 ## Presenter
-[Dr. Osama Mahmoud](http://www.osmahmoud.com), Senior Research Associate (Research Statistician), School of Social and Community Medicine, University of Bristol, UK.
+[Dr. Osama Mahmoud](http://www.osmahmoud.com){:target="_blank"}, Senior Research Associate (Research Statistician), School of Social and Community Medicine, University of Bristol, UK.
  
 ## Installing the R package
 The R package associated with this course is located in the
-[drat repository](https://github.com/statcourses/drat). Installing the package can be simply done by running the following code lines into your R session. 
+[drat repository](https://github.com/statcourses/drat){:target="_blank"}. Installing the package can be simply done by running the following code lines into your R session. 
 
 ```javascript
 install.packages("drat")

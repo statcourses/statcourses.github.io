@@ -3,12 +3,13 @@ layout: default
 title: Introduction to R
 ---
 # Introduction to R
-
+<p align="justify">
 This is a one day intensive course on basics and fundamental concepts of R. The course is structured as a set of lecture sessions and computer practicals.
-
-    NO PRIOR PROGRAMMING KNOWLEDGE IS ASSUMED
-    
+<br>
 This course might be benfecial for a wide range of participants e.g., statisticians, biologists, clinicians and postgraduate students.
+</p>
+
+**NO PRIOR PROGRAMMING KNOWLEDGE IS ASSUMED**
 
 ## Course outline
 
@@ -22,11 +23,11 @@ This course might be benfecial for a wide range of participants e.g., statistici
  * Visualisation: Creating, editing and saving graphics in various formats using R.
  
 ## Presenter
-[Dr. Osama Mahmoud](http://www.osmahmoud.com), Senior Research Associate (Research Statistician), School of Social and Community Medicine, University of Bristol, UK.
+[Dr. Osama Mahmoud](http://www.osmahmoud.com){:target="_blank"}, Senior Research Associate (Research Statistician), School of Social and Community Medicine, University of Bristol, UK.
  
 ## Installing the R package
 The R package associated with this course is located in the
-[drat repository](https://github.com/statcourses/drat). Installing the package can be simply done by running the following code lines into your R session. 
+[drat repository](https://github.com/statcourses/drat){:target="_blank"}. Installing the package can be simply done by running the following code lines into your R session. 
 
 ```javascript
 install.packages("drat")
