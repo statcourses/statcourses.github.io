@@ -1,0 +1,16 @@
+/* Created by CSG 
+   for side menu styling
+*/
+
+p.view {
+	margin-left: 0.2em;
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
+	border: 0em;
+}
+
+p.sub {
+	margin-left: 1em;
+	margin-bottom: 0em;
+	margin-top: 0em;
+}

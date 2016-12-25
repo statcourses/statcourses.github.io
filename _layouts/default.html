@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="/stylesheets/styles.css">
+    <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="/stylesheets/custom.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-61963956-1']);
+      _gaq.push(['_trackPageview']);
+      
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+          
+    </script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>R Courses</h1>
+        <p></p>
+
+        <p class="view"><a href="/">Home</a></p>
+        <p class="view ">Courses</p>
+        <p class="view sub"><a href="{{ site.baseurl }}/nclRintroduction/">Introduction to R</a></p>
+        <p class="view sub"><a href="{{ site.baseurl}}/nclRmodelling/">Statistical modelling</a></p>
+        <p class="view sub"><a href="{{ site.baseurl}}/nclRprogramming/">Programming with R</a></p>
+        <p class="view sub"><a href="{{ site.baseurl}}/nclRefficient/">Efficient R programming</a></p>
+        <p class="view sub"><a href="{{ site.baseurl }}/nclRggplot2/">Advanced graphics</a></p>
+        <p class="view sub"><a href="{{ site.baseurl }}/nclRadvanced/">Advanced programming</a></p>
+        <p class="view sub"><a href="{{ site.baseurl }}/nclRpackage/">Building an R package</a></p>
+        <p class="view sub"><a href="{{ site.baseurl}}/nclRpredictive/">Predictive analytics</a></p>
+
+        <p class="view ">Course Leaders</p>
+        <p class="view sub"> <a href="https://github.com/csgillespie">Dr Colin Gillespie</a></p>
+        <p class="view sub"> <a href="http://www.ncl.ac.uk/maths/staff/profile/sarah.heaps">Dr
+        Sarah Heaps</a></p>
+        <p class="view sub">Mr Jamie Owen</p>
+
+        <p class="view"><a href="http://www.ncl.ac.uk/maths/rcourse/">Booking site</a></p>
+
+      </header>
+      <section>
+{{ content }}
+     
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+
+    <script src="{{ site.baseurl }}/javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
