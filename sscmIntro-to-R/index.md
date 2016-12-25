@@ -21,20 +21,23 @@ This course might be benfecial for a wide range of participants e.g., statistici
  * Missing values: Describing how R handles missing values.
  * Visualisation: Creating, editing and saving graphics in various formats using R.
  
+## Presenter
+[Dr. Osama Mahmoud](http://www.osmahmoud.com), Senior Research Associate (Research Statistician), School of Social and Community Medicine, University of Bristol, UK.
+ 
 ## Installing the R package
-
 The R package associated with this course is located in the
 [drat repository](https://github.com/statcourses/drat). Installing the package can be simply done by running the following code lines into your R session. 
 
-~~~
+```javascript
 install.packages("drat")
 drat::addRepo("statcourses")
 install.packages("sscmRintro", type="source")
-~~~
-
+```
 The package can then be loaded via
 
-    library("sscmRintro")
+```javascript
+library("sscmRintro")
+```
 
 <!--
 ## Vignettes
