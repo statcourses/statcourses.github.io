@@ -7,7 +7,8 @@ This is a one day intensive course on R programming techniques. The course is st
 
 This course might be benfecial for a wide range of participants e.g., statisticians, biologists, clinicians and postgraduate students.
 
-    THIS COURSE IS AN INTEGRATED PART FOR THE [INTRODUCTION TO R](sscmIntro-to-R) COURSE. IT IS ASSUMED THAT ALL PARTIIPANTS HAVE THE KNOWLEDGE COVERED BY THAT COURSE.
+## Prerequisite
+THIS COURSE IS AN INTEGRATED PART FOR THE [INTRODUCTION TO R](sscmIntro-to-R) COURSE. IT IS ASSUMED THAT ALL PARTIIPANTS HAVE THE KNOWLEDGE COVERED BY THAT COURSE.
 
 ## Course outline
 
