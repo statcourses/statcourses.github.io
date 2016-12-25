@@ -16,7 +16,7 @@ This course assumes all participants have <strong>basic knowledge of R programmi
 
  * Multivariate concepts: Introducing basic statistical notions of multivariate analysis, such as covariance, correlation and Euclidean distance.
  * Similarity measures: A brief summary of various measurements of similarity and its calculations using R.
- * k-means clustering: Introducing concepts of $k$-means clustering, visualising resulted clusters and discussing applications using R.
+ * k-means clustering: Introducing concepts of k-means clustering, visualising resulted clusters and discussing applications using R.
  * Hierarchical clustering: Discussing different linkage methods of hierarchical clustering, agglomerative schemes and additive trees with their applications in R.
  * Logistic regression: Introducing logistic regression technique for binary classification problems with R.
  * Bayes classifier and LDA: Some other classification techniques included the Bayes classifier and linear discriminant analysis are covered.
