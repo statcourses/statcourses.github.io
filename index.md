@@ -5,17 +5,17 @@ title: Statistical Courses
 
 # Overview
 <p align="justify">
-This webpage contains description and materials for a number of <strong>statistical courses</strong>. Each course is associated with an <strong><em>R package</em></strong> tailored &mdash; for teaching purposes &mdash; for combining together the practical sheets with solutions, course notes and training data sets.
+This webpage contains description and materials for a number of <strong>statistical courses</strong>. Each course is associated with an <strong><em>R package</em></strong> tailored &mdash; for teaching purposes &mdash; to combine together the practical sheets with solutions, course notes and training data sets.
 </p>
 
 <p align="justify">
-If you are interested in finding out dates of forthcoming courses, discussing arrangements for delevering a course on-site, or interested in getting in touch, please feel free to [contact me](http://osmahmoud.com/aboutme/#contact).
+If you are interested in finding out dates of forthcoming courses, discussing arrangements for delevering a course on-site, or interested in getting in touch, please feel free to <a href="http://osmahmoud.com/aboutme/#contact" target="_blank">contact me</a>.
 </p>
 
-This repository currently contains material for
+This archive currently contains material for:
 
- * [Mastering data analysis using R](SSCMintroduction)
- * [Advanced visulaisation using R](SSCMggplot2)
- * [Clustering and classification with applications](SSCMbigData)
+ 1. [Mastering data analysis using R](SSCMintroduction)
+ 2. [Advanced visulaisation using R](SSCMggplot2)
+ 3. [Clustering and classification with applications](SSCMbigData)
 
 All the packages are located in the [drat repository](https://github.com/statcourses/drat).
