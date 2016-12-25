@@ -8,7 +8,7 @@ This is a one day intensive course on basics and fundamental concepts of R. The 
 
     No prior programming skills are required
     
-This course might be benfecial for a wide range of participants e.g., statisticians, biologists, clinicians, postgraduate students.
+This course might be benfecial for a wide range of participants e.g., statisticians, biologists, clinicians and postgraduate students.
 
 ## Course outline
 
@@ -16,7 +16,7 @@ This course might be benfecial for a wide range of participants e.g., statistici
  * Help systems in R: A description of how to use different sources of R help.
  * Data types: A brief introduction to different data types in R including numeric, complex, character, factor and logical data.
  * Data structure: A summary of R's data structure including vectors, matrices, arrays, data frames and lists.
- * Importing data: Describing how to import, save and export data different format of data from R including Excel, SPSS, STATA and SAS data files.
+ * Importing data: Describing how to import, edit, save and export data of different formats from R including Excel, SPSS, STATA and SAS data files.
  * Data manipulation: A description of how to use logical operators to manipulate data.
  * Missing values: Describing how R handles missing values.
  * Visualisation: Creating, editing and saving graphics in various formats using R.
@@ -26,10 +26,11 @@ This course might be benfecial for a wide range of participants e.g., statistici
 The R package associated with this course is located in the
 [drat repository](https://github.com/statcourses/drat). Installing the package can be simply done by running the following code lines into your R session. 
 
-    install.packages("drat")
-    drat::addRepo("statcourses")
-    install.packages("sscmRintro", type="source")
-
+```javascript
+install.packages("drat")
+drat::addRepo("statcourses")
+install.packages("sscmRintro", type="source")
+```
 The package can then be loaded via
 
     library("sscmRintro")
