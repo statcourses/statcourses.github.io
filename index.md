@@ -15,7 +15,7 @@ If you are interested in finding out dates of forthcoming courses, discussing ar
 This repository currently contains material for
 
  * [Mastering data analysis using R](SSCMintroduction)
- * [Advanced visulaisation using R ](SSCMggplot2)
+ * [Advanced visulaisation using R](SSCMggplot2)
  * [Clustering and classification with applications](SSCMbigData)
 
 All the packages are located in the [drat repository](https://github.com/statcourses/drat).
