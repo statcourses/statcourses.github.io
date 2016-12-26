@@ -9,7 +9,7 @@ This is a one day intensive course on statistical learning techniques. The cours
 
 ## Prerequisite
 <p align="justify">
-This course assumes all participants have <strong>basic knowledge of R programming</strong>, as covered by the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course (or equivalent skills). <strong>Basic concepts in statistics, in particular correlation and linear regression techniques</strong> are also assumed.
+This course assumes all participants have <strong>basic knowledge of R programming</strong>, as covered by the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course (or equivalent skills). <strong>Basic concepts in statistics</strong>, in particular correlation and linear regression techniques are also assumed.
 </p>
 
 ## Course outline
