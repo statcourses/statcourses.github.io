@@ -16,6 +16,6 @@ This archive currently contains material for:
 
  * [Introduction to R](sscmIntro-to-R)
  * [Programming using R](sscmRprogramming)
- * [Clustering and classification with applications in R](sscmBigData)
+ * [Clustering and classification with applications in R](essexBigData)
 
 All the packages are located in the [drat repository](https://github.com/statcourses/drat).
