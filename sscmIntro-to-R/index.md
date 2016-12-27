@@ -4,7 +4,7 @@ title: Introduction to R
 ---
 # Introduction to R
 <p align="justify">
-This is a one day intensive course on basics and fundamental concepts of R. The course is structured as a set of lecture sessions and computer practicals. This course might be benfecial for a wide range of participants e.g., statisticians, biologists, clinicians and postgraduate students.
+This is a one day intensive course on basics and fundamental concepts of R. The course is structured as a set of lecture sessions and computer practicals. It is suitable to a wide range of participants e.g., statisticians, biologists, clinicians and postgraduate students.
 </p>
 
 **No prior programming knowledge is assumend**.
