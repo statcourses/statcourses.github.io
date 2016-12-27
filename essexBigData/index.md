@@ -21,7 +21,7 @@ This course assumes all participants have <strong>basic knowledge of R programmi
  * Logistic regression: Introducing logistic regression technique for binary classification problems with R.
  * Bayes classifier and LDA: Other classification techniques included the Bayes classifier and linear discriminant analysis are introduced as further examples of statistical learning methods.
  * CART & Random forest: Descriping tree-based classifiers and introducing the random forest technique.
- * Bootstrap & Cross-validation: Methods for assessing classifiers by estimating missclasification error rates are  Presenting and applied in R.
+ * Bootstrap & Cross-validation: Methods for assessing classifiers by estimating missclasification error rates are  Presented and applied in R.
  * ROC: Estimating the area under the receiver-operating characteristic (ROC) using R.
 
 ## Presenter
