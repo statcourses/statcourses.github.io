@@ -29,7 +29,7 @@ This course assumes all participants have <strong>basic knowledge of R programmi
 
 [Prof. Berthold Lausen](https://www.essex.ac.uk/maths/staff/profile.aspx?ID=1277){:target="_blank"}, Professor of Statistics and Head of Department of Mathematical Sciences, University of Essex, UK.
  
-## Installing the R package
+## Installing the R package (Temporarily Unavailable!)
 The R package associated with this course is located in the
 [drat repository](https://github.com/statcourses/drat){:target="_blank"}. Installing the package can be simply done by running the following code lines into your R session. 
 

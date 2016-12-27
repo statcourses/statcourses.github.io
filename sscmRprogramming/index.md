@@ -23,7 +23,7 @@ This course assumes all participants have <strong>basic concepts of R</strong>, 
 ## Presenter
 [Dr. Osama Mahmoud](http://www.osmahmoud.com){:target="_blank"}, Senior Research Associate (Research Statistician), School of Social and Community Medicine, University of Bristol, UK.
  
-## Installing the R package
+## Installing the R package (Temporarily Unavailable!)
 The R package associated with this course is located in the
 [drat repository](https://github.com/statcourses/drat){:target="_blank"}. Installing the package can be simply done by running the following code lines into your R session. 
 
