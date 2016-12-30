@@ -7,9 +7,9 @@ title: Programming using R
 This is a one day intensive course on R programming techniques. The course is structured as a set of lecture sessions and computer practicals. It mainly covers the basic programming tools in R, such as functions and control structures, i.e. conditional expressions and loops. The target audiance for the course include a wide range of applicants e.g., statisticians, biologists, clinicians and postgraduate students.
 </p>
 
-## Notice
+### Notice
 <p align="justify">
-This course assumes all participants have <strong>basic concepts of R</strong>, as covered by the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course. It is highly recommended that a participant attends the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a>, followed by this course. Both courses together form a series titled '<em>Mastering Data Analysis & Visualisation Using R</em>'.
+This course assumes all participants have <strong>basic concepts of R</strong>, as covered by the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course. It is highly recommended that a participant attends the 'Introduction to R' course, followed by this course. Both courses together form a series titled '<em>Mastering Data Analysis & Visualisation Using R</em>'.
 </p>
 
 ## Course outline
