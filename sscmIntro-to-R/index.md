@@ -24,7 +24,7 @@ This is a one day intensive course on basics and fundamental concepts of R. The 
 [Dr. Osama Mahmoud](http://www.osmahmoud.com){:target="_blank"}, Senior Research Associate (Research Statistician), School of Social and Community Medicine, University of Bristol, UK.
  
 ## Installing the R package (Temporarily Unavailable!)
-The R package associated with this course is located in the
+The R package associated with this course is hosted by the
 [drat repository](https://github.com/statcourses/drat){:target="_blank"}. Installing the package can be simply done by running the following code lines into your R session. 
 
 ```javascript

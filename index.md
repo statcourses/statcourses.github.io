@@ -18,4 +18,6 @@ This archive currently contains material for:
  * [Programming using R](sscmRprogramming)
  * [Clustering and classification with applications in R](essexBigData)
 
-All the packages are located in the [drat repository](https://github.com/statcourses/drat).
+<p align="justify">
+All courses are listed <a href="http://osmahmoud.com/R-courses/" target="_blank">here</a> with further details. All the packages are located in the <a href="https://github.com/statcourses/drat" target="_blank">drat repository</a>.
+</p>

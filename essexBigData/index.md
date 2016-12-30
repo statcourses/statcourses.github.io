@@ -7,7 +7,7 @@ title: Clustering and classification with applications in R
 This is a one day intensive course on statistical learning techniques. The course is structured as a set of lecture sessions and computer practicals. The main focus is to introduce cluster analysis (unsupervised learning) and classification (supervised learning) approaches.  Using R, participants will analyse real as well as example data sets and compute estimates of the misclassification rate, of the area under the receiver-operating characteristic (ROC) and of other relevant measurements. This course might be benfecial for a wide range of participants e.g., statisticians, bioinformaticians, data scientists, engineers and postgraduate students.
 </p>
 
-## Prerequisite
+## Notice
 <p align="justify">
 This course assumes all participants have <strong>basic knowledge of R programming</strong>, as covered by the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course (or equivalent skills). <strong>Basic concepts in statistics</strong>, in particular correlation and linear regression techniques are also assumed.
 </p>
@@ -29,8 +29,8 @@ This course assumes all participants have <strong>basic knowledge of R programmi
 
 [Prof. Berthold Lausen](https://www.essex.ac.uk/maths/staff/profile.aspx?ID=1277){:target="_blank"}, Professor of Statistics and Head of Department of Mathematical Sciences, University of Essex, UK.
  
-## Installing the R package (Temporarily Unavailable!)
-The R package associated with this course is located in the
+## Installing the R package
+The R package associated with this course is hosted by the
 [drat repository](https://github.com/statcourses/drat){:target="_blank"}. Installing the package can be simply done by running the following code lines into your R session. 
 
 ```javascript
