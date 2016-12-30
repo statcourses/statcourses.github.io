@@ -7,9 +7,9 @@ title: Clustering and classification with applications in R
 This is a one day intensive course on statistical learning techniques. The course is structured as a set of lecture sessions and computer practicals. The main focus is to introduce cluster analysis (unsupervised learning) and classification (supervised learning) approaches.  Using R, participants will analyse real as well as example data sets and compute estimates of the misclassification rate, of the area under the receiver-operating characteristic (ROC) and of other relevant measurements. This course might be benfecial for a wide range of participants e.g., statisticians, bioinformaticians, data scientists, engineers and postgraduate students.
 </p>
 
-## Notice
+### Notice
 <p align="justify">
-This course assumes all participants have <strong>basic knowledge of R programming</strong>, as covered by the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course. Knowledge of <strong>Basic concepts in statistics</strong>, in particular correlation and linear regression techniques are an advantage but not necessarily required.
+This course assumes all participants have <strong>basic knowledge of R programming</strong>, as covered by the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course. Knowledge of <em>Basic concepts in statistics</em>, in particular correlation and linear regression techniques are an advantage but not necessarily required.
 </p>
 
 ## Course outline
