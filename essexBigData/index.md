@@ -9,7 +9,7 @@ This is a one day intensive course on statistical learning techniques. The cours
 
 ## Notice
 <p align="justify">
-This course assumes all participants have <strong>basic knowledge of R programming</strong>, as covered by the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course (or equivalent skills). <strong>Basic concepts in statistics</strong>, in particular correlation and linear regression techniques are also assumed.
+This course assumes all participants have <strong>basic knowledge of R programming</strong>, as covered by the <a href="{{ site.baseurl}}/sscmIntro-to-R">'Introduction to R'</a> course. Knowledge of <strong>Basic concepts in statistics</strong>, in particular correlation and linear regression techniques are an advantage but not necessarily required.
 </p>
 
 ## Course outline
@@ -27,7 +27,7 @@ This course assumes all participants have <strong>basic knowledge of R programmi
 ## Presenter
 [Dr. Osama Mahmoud](http://www.osmahmoud.com){:target="_blank"}, Senior Research Associate (Research Statistician), School of Social and Community Medicine, University of Bristol, UK.
 
-[Prof. Berthold Lausen](https://www.essex.ac.uk/maths/staff/profile.aspx?ID=1277){:target="_blank"}, Professor of Statistics and Head of Department of Mathematical Sciences, University of Essex, UK.
+[Prof. Berthold Lausen](https://www.essex.ac.uk/maths/staff/profile.aspx?ID=1277){:target="_blank"}, Professor of Statistics and He</a>ad of Department of Mathematical Sciences, University of Essex, UK.
  
 ## Installing the R package
 The R package associated with this course is hosted by the

@@ -19,5 +19,5 @@ This archive currently contains material for:
  * [Clustering and classification with applications in R](essexBigData)
 
 <p align="justify">
-All courses are listed <a href="http://osmahmoud.com/R-courses/" target="_blank">here</a> with further details. All the packages are located in the <a href="https://github.com/statcourses/drat" target="_blank">drat repository</a>.
+Further details on all courses are <a href="http://osmahmoud.com/R-courses/" target="_blank">reported here</a>. All teaching packages - associated with the courses - are located in the <a href="https://github.com/statcourses/drat" target="_blank">drat repository</a>.
 </p>
